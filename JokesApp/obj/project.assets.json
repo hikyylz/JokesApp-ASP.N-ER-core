@@ -8305,11 +8305,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp\\JokesApp\\JokesApp.csproj",
+      "projectUniqueName": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\JokesApp.csproj",
       "projectName": "JokesApp",
-      "projectPath": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp\\JokesApp\\JokesApp.csproj",
+      "projectPath": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\JokesApp.csproj",
       "packagesPath": "C:\\Users\\nnoKaanY\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp\\JokesApp\\obj\\",
+      "outputPath": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

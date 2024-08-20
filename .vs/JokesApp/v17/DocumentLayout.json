@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|c:\\users\\nnokaany\\source\\repos\\jokesapp-asp.net-core\\jokesapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|solutionrelative:jokesapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|c:\\users\\nnokaany\\source\\repos\\jokesapp-asp.net-core\\jokesapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|solutionrelative:jokesapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|c:\\users\\nnokaany\\source\\repos\\jokesapp-asp.net-core\\jokesapp\\sevice\\weatherapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|solutionrelative:jokesapp\\sevice\\weatherapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|c:\\users\\nnokaany\\source\\repos\\jokesapp-asp.net-core\\jokesapp\\controllers\\jokescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|solutionrelative:jokesapp\\controllers\\jokescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "JokesApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "JokesApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T13:24:44.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\appsettings.json",
+              "RelativeDocumentMoniker": "JokesApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\appsettings.json",
+              "RelativeToolTip": "JokesApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-20T13:24:41.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherAPIService.cs",
+              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Sevice\\WeatherAPIService.cs",
+              "RelativeDocumentMoniker": "JokesApp\\Sevice\\WeatherAPIService.cs",
+              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Sevice\\WeatherAPIService.cs",
+              "RelativeToolTip": "JokesApp\\Sevice\\WeatherAPIService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:21:55.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JokesController.cs",
+              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Controllers\\JokesController.cs",
+              "RelativeDocumentMoniker": "JokesApp\\Controllers\\JokesController.cs",
+              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Controllers\\JokesController.cs",
+              "RelativeToolTip": "JokesApp\\Controllers\\JokesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:21:01.745Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

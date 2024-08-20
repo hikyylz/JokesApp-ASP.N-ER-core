@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rgiFVGiqvZc=",
+  "dgSpecHash": "asQqbvPCsaQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp\\JokesApp\\JokesApp.csproj",
+  "projectFilePath": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\JokesApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nnoKaanY\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\nnoKaanY\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -6,7 +6,8 @@ namespace JokesApp.Sevice
     public class WeatherAPIService
     {
         private static string apikey = "a82233747252d5ab3cd24a75641df493";
-        string connection = "https://api.openweathermap.org/data/2.5/weather?q=marmaris&mode=xml&appid=" + apikey;
+        private static string selectedCity = "london";
+        string connection = "https://api.openweathermap.org/data/2.5/weather?q="+selectedCity+"&mode=xml&appid="+apikey;
 
         public WeatherAPIService() { 
         
