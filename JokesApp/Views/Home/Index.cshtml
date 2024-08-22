@@ -10,14 +10,15 @@
 
 <div class="text-center">
     <h1 class="display-4">Welcome Jokes App</h1>
-    <p>Here is the jokes app, welcome search any joke.</p>
+    <p>Here is the jokes app, welcome search any joke or blog life.</p>
 </div>
+
 
 <div class="container mt-5">
     <div class="column" style="position: absolute; top: 100px; right: 10px; width: 250px;">
         @foreach (var item in ViewBag.modelsList)
         {
-            <div class="card" style="background-color: #007bff; color: white; padding: 10px;">
+            <div class="card mb-3" style="background-color: #007bff; color: white; padding: 10px;">
                 <h5 class="card-text">Mevcut Hava Durumu:</h5>
                 <p class="card-text">@item.cityName</p>
                 <p class="card-text">@item.country</p>
@@ -26,6 +27,7 @@
         }
     </div>
 </div>
+
 
 
 

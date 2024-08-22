@@ -70,7 +70,7 @@ namespace JokesApp.Controllers
         }
 
         // GET: BlogPosts/Edit/5
-        [Authorize]
+        //[Authorize]
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -91,7 +91,7 @@ namespace JokesApp.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        [Authorize]
+        //[Authorize]
         public async Task<IActionResult> Edit(int id, [Bind("BlogId,BlogTitle,BlogDescription,BlogAuthor")] BlogPost blogPost)
         {
             if (id != blogPost.BlogId)
