@@ -12,7 +12,8 @@ namespace JokesApp.Data
 
         }
         public DbSet<JokesApp.Models.Joke> Joke { get; set; } = default!;
-        public DbSet<JokesApp.Models.WeatherForcastModel> WeatherForcast { get; set;} = default!;
+        public DbSet<JokesApp.Models.BlogPost> BlogPost { get; set; } = default!;
+        public DbSet<JokesApp.Models.WeatherForcastModel> WeatherForcastModels { get; set; } = default!;
 
     }
 }

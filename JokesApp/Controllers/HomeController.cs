@@ -9,18 +9,17 @@ namespace JokesApp.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-        private readonly WeatherAPIService weatherAPIService;
-
+        private readonly WeatherAPIService _weatherAPIService;
 
         public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
-            weatherAPIService = new WeatherAPIService();
+            _weatherAPIService = new WeatherAPIService();
         }
 
         public IActionResult Index()
         {
-            ViewBag.weatherModel = weatherAPIService.getWeatherModel();
+            ViewBag.modelsList = _weatherAPIService.getWeatherModels();
             return View();
         }
 
@@ -34,6 +33,7 @@ namespace JokesApp.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
 
 
 
