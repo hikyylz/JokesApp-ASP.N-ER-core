@@ -26,6 +26,12 @@ namespace JokesApp.Controllers
             return View(await _context.BlogPost.ToListAsync());
         }
 
+        public async Task<IActionResult> AskAI()
+        {
+
+            return View();
+        }
+
 
         // GET: BlogPosts/Details/5
         public async Task<IActionResult> Details(int? id)

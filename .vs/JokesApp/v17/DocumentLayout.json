@@ -3,16 +3,35 @@
   "WorkspaceRootPath": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|c:\\users\\nnokaany\\source\\repos\\jokesapp-asp.net-core\\jokesapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|solutionrelative:jokesapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|c:\\users\\nnokaany\\source\\repos\\jokesapp-asp.net-core\\jokesapp\\controllers\\blogpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|solutionrelative:jokesapp\\controllers\\blogpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|c:\\users\\nnokaany\\source\\repos\\jokesapp-asp.net-core\\jokesapp\\views\\blogposts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|solutionrelative:jokesapp\\views\\blogposts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|c:\\users\\nnokaany\\source\\repos\\jokesapp-asp.net-core\\jokesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|solutionrelative:jokesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|c:\\users\\nnokaany\\source\\repos\\jokesapp-asp.net-core\\jokesapp\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|solutionrelative:jokesapp\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|c:\\users\\nnokaany\\source\\repos\\jokesapp-asp.net-core\\jokesapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|solutionrelative:jokesapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_JokesApp_9d827223_4422_4e9f_b849_092d692d8d76/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|c:\\users\\nnokaany\\source\\repos\\jokesapp-asp.net-core\\jokesapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|solutionrelative:jokesapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|c:\\users\\nnokaany\\source\\repos\\jokesapp-asp.net-core\\jokesapp\\views\\blogposts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|solutionrelative:jokesapp\\views\\blogposts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|c:\\users\\nnokaany\\source\\repos\\jokesapp-asp.net-core\\jokesapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|solutionrelative:jokesapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|c:\\users\\nnokaany\\source\\repos\\jokesapp-asp.net-core\\jokesapp\\views\\jokes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -47,10 +66,6 @@
       "RelativeMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|solutionrelative:jokesapp\\views\\blogposts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|c:\\users\\nnokaany\\source\\repos\\jokesapp-asp.net-core\\jokesapp\\controllers\\blogpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|solutionrelative:jokesapp\\controllers\\blogpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|c:\\users\\nnokaany\\source\\repos\\jokesapp-asp.net-core\\jokesapp\\models\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|solutionrelative:jokesapp\\models\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -71,24 +86,12 @@
       "RelativeMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|solutionrelative:jokesapp\\views\\weatherforcastmodels\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|c:\\users\\nnokaany\\source\\repos\\jokesapp-asp.net-core\\jokesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|solutionrelative:jokesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|c:\\users\\nnokaany\\source\\repos\\jokesapp-asp.net-core\\jokesapp\\data\\migrations\\20240821102209_initialsetup3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|solutionrelative:jokesapp\\data\\migrations\\20240821102209_initialsetup3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|c:\\users\\nnokaany\\source\\repos\\jokesapp-asp.net-core\\jokesapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|solutionrelative:jokesapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|c:\\users\\nnokaany\\source\\repos\\jokesapp-asp.net-core\\jokesapp\\data\\migrations\\20240821074633_initialsetup2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|solutionrelative:jokesapp\\data\\migrations\\20240821074633_initialsetup2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|c:\\users\\nnokaany\\source\\repos\\jokesapp-asp.net-core\\jokesapp\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|solutionrelative:jokesapp\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|c:\\users\\nnokaany\\source\\repos\\jokesapp-asp.net-core\\jokesapp\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -115,10 +118,6 @@
       "RelativeMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|solutionrelative:jokesapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|c:\\users\\nnokaany\\source\\repos\\jokesapp-asp.net-core\\jokesapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|solutionrelative:jokesapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|c:\\users\\nnokaany\\source\\repos\\jokesapp-asp.net-core\\jokesapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D50BC49D-4E61-41A6-ACC4-47D12141C5E7}|JokesApp\\JokesApp.csproj|solutionrelative:jokesapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -130,7 +129,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -138,276 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "JokesApp\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "JokesApp\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAkwCAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-08-22T12:53:16.906Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WeatherAPIService.cs",
-              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Sevice\\WeatherAPIService.cs",
-              "RelativeDocumentMoniker": "JokesApp\\Sevice\\WeatherAPIService.cs",
-              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Sevice\\WeatherAPIService.cs",
-              "RelativeToolTip": "JokesApp\\Sevice\\WeatherAPIService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T07:53:57.133Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Views\\BlogPosts\\Details.cshtml",
-              "RelativeDocumentMoniker": "JokesApp\\Views\\BlogPosts\\Details.cshtml",
-              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Views\\BlogPosts\\Details.cshtml",
-              "RelativeToolTip": "JokesApp\\Views\\BlogPosts\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-21T07:59:13.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Views\\BlogPosts\\Index.cshtml",
-              "RelativeDocumentMoniker": "JokesApp\\Views\\BlogPosts\\Index.cshtml",
-              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Views\\BlogPosts\\Index.cshtml",
-              "RelativeToolTip": "JokesApp\\Views\\BlogPosts\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-21T08:19:26.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Views\\Jokes\\Create.cshtml",
-              "RelativeDocumentMoniker": "JokesApp\\Views\\Jokes\\Create.cshtml",
-              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Views\\Jokes\\Create.cshtml",
-              "RelativeToolTip": "JokesApp\\Views\\Jokes\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-21T10:16:49.732Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "JokesApp\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "JokesApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAABPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-22T10:42:20.382Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "JokesApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "JokesApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAACAAAAAAAAAAAAAuwDAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-21T07:55:27.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "WeatherForcastModel.cs",
-              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Models\\WeatherForcastModel.cs",
-              "RelativeDocumentMoniker": "JokesApp\\Models\\WeatherForcastModel.cs",
-              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Models\\WeatherForcastModel.cs",
-              "RelativeToolTip": "JokesApp\\Models\\WeatherForcastModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T07:53:40.983Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "WeatherForcastController.cs",
-              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Controllers\\WeatherForcastController.cs",
-              "RelativeDocumentMoniker": "JokesApp\\Controllers\\WeatherForcastController.cs",
-              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Controllers\\WeatherForcastController.cs",
-              "RelativeToolTip": "JokesApp\\Controllers\\WeatherForcastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T10:21:46.258Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Views\\BlogPosts\\Create.cshtml",
-              "RelativeDocumentMoniker": "JokesApp\\Views\\BlogPosts\\Create.cshtml",
-              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Views\\BlogPosts\\Create.cshtml",
-              "RelativeToolTip": "JokesApp\\Views\\BlogPosts\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-21T08:48:24.593Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Views\\BlogPosts\\Edit.cshtml",
-              "RelativeDocumentMoniker": "JokesApp\\Views\\BlogPosts\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Views\\BlogPosts\\Edit.cshtml",
-              "RelativeToolTip": "JokesApp\\Views\\BlogPosts\\Edit.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAADYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-21T07:59:48.13Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BlogPost.cs",
-              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Models\\BlogPost.cs",
-              "RelativeDocumentMoniker": "JokesApp\\Models\\BlogPost.cs",
-              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Models\\BlogPost.cs",
-              "RelativeToolTip": "JokesApp\\Models\\BlogPost.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T07:53:35.501Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Views\\Jokes\\Index.cshtml",
-              "RelativeDocumentMoniker": "JokesApp\\Views\\Jokes\\Index.cshtml",
-              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Views\\Jokes\\Index.cshtml",
-              "RelativeToolTip": "JokesApp\\Views\\Jokes\\Index.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-21T09:40:07.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BlogPostsController.cs",
-              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Controllers\\BlogPostsController.cs",
-              "RelativeDocumentMoniker": "JokesApp\\Controllers\\BlogPostsController.cs",
-              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Controllers\\BlogPostsController.cs",
-              "RelativeToolTip": "JokesApp\\Controllers\\BlogPostsController.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAIwEgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T07:58:37.472Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "JokesController.cs",
-              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Controllers\\JokesController.cs",
-              "RelativeDocumentMoniker": "JokesApp\\Controllers\\JokesController.cs",
-              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Controllers\\JokesController.cs",
-              "RelativeToolTip": "JokesApp\\Controllers\\JokesController.cs",
-              "ViewState": "AQIAAHoAAAAAAAAAAAAIwEgAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T10:16:04.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "JokesApp\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "JokesApp\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAmwBAAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T09:50:27.784Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Views\\WeatherForcastModels\\Index.cshtml",
-              "RelativeDocumentMoniker": "JokesApp\\Views\\WeatherForcastModels\\Index.cshtml",
-              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Views\\WeatherForcastModels\\Index.cshtml",
-              "RelativeToolTip": "JokesApp\\Views\\WeatherForcastModels\\Index.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-22T10:53:08.392Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Program.cs",
-              "RelativeDocumentMoniker": "JokesApp\\Program.cs",
-              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Program.cs",
-              "RelativeToolTip": "JokesApp\\Program.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T13:36:03.418Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "20240821102209_initialsetup3.cs",
-              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Data\\Migrations\\20240821102209_initialsetup3.cs",
-              "RelativeDocumentMoniker": "JokesApp\\Data\\Migrations\\20240821102209_initialsetup3.cs",
-              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Data\\Migrations\\20240821102209_initialsetup3.cs",
-              "RelativeToolTip": "JokesApp\\Data\\Migrations\\20240821102209_initialsetup3.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwAsAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T10:22:09.609Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "JokesApp\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "JokesApp\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA4AAABRAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T07:52:34.028Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "20240821074633_initialsetup2.cs",
-              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Data\\Migrations\\20240821074633_initialsetup2.cs",
-              "RelativeDocumentMoniker": "JokesApp\\Data\\Migrations\\20240821074633_initialsetup2.cs",
-              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Data\\Migrations\\20240821074633_initialsetup2.cs",
-              "RelativeToolTip": "JokesApp\\Data\\Migrations\\20240821074633_initialsetup2.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T07:51:44.076Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
               "Title": "ApplicationDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "JokesApp\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
@@ -420,7 +150,290 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "JokesApp\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "JokesApp\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-22T12:53:16.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherAPIService.cs",
+              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Sevice\\WeatherAPIService.cs",
+              "RelativeDocumentMoniker": "JokesApp\\Sevice\\WeatherAPIService.cs",
+              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Sevice\\WeatherAPIService.cs",
+              "RelativeToolTip": "JokesApp\\Sevice\\WeatherAPIService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T07:53:57.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Views\\BlogPosts\\Index.cshtml",
+              "RelativeDocumentMoniker": "JokesApp\\Views\\BlogPosts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Views\\BlogPosts\\Index.cshtml",
+              "RelativeToolTip": "JokesApp\\Views\\BlogPosts\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T08:19:26.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogPostsController.cs",
+              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Controllers\\BlogPostsController.cs",
+              "RelativeDocumentMoniker": "JokesApp\\Controllers\\BlogPostsController.cs",
+              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Controllers\\BlogPostsController.cs",
+              "RelativeToolTip": "JokesApp\\Controllers\\BlogPostsController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T07:58:37.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "JokesApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "JokesApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T07:52:34.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Program.cs",
+              "RelativeDocumentMoniker": "JokesApp\\Program.cs",
+              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Program.cs",
+              "RelativeToolTip": "JokesApp\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAB4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T13:36:03.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_JokesApp_9d827223_4422_4e9f_b849_092d692d8d76/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-23T06:18:45.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Views\\BlogPosts\\Details.cshtml",
+              "RelativeDocumentMoniker": "JokesApp\\Views\\BlogPosts\\Details.cshtml",
+              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Views\\BlogPosts\\Details.cshtml",
+              "RelativeToolTip": "JokesApp\\Views\\BlogPosts\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T07:59:13.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Views\\Jokes\\Create.cshtml",
+              "RelativeDocumentMoniker": "JokesApp\\Views\\Jokes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Views\\Jokes\\Create.cshtml",
+              "RelativeToolTip": "JokesApp\\Views\\Jokes\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T10:16:49.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "JokesApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "JokesApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T10:42:20.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "JokesApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "JokesApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAAAuwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T07:55:27.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForcastModel.cs",
+              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Models\\WeatherForcastModel.cs",
+              "RelativeDocumentMoniker": "JokesApp\\Models\\WeatherForcastModel.cs",
+              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Models\\WeatherForcastModel.cs",
+              "RelativeToolTip": "JokesApp\\Models\\WeatherForcastModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T07:53:40.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForcastController.cs",
+              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Controllers\\WeatherForcastController.cs",
+              "RelativeDocumentMoniker": "JokesApp\\Controllers\\WeatherForcastController.cs",
+              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Controllers\\WeatherForcastController.cs",
+              "RelativeToolTip": "JokesApp\\Controllers\\WeatherForcastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:21:46.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Views\\BlogPosts\\Create.cshtml",
+              "RelativeDocumentMoniker": "JokesApp\\Views\\BlogPosts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Views\\BlogPosts\\Create.cshtml",
+              "RelativeToolTip": "JokesApp\\Views\\BlogPosts\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T08:48:24.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Views\\BlogPosts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "JokesApp\\Views\\BlogPosts\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Views\\BlogPosts\\Edit.cshtml",
+              "RelativeToolTip": "JokesApp\\Views\\BlogPosts\\Edit.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T07:59:48.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BlogPost.cs",
+              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Models\\BlogPost.cs",
+              "RelativeDocumentMoniker": "JokesApp\\Models\\BlogPost.cs",
+              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Models\\BlogPost.cs",
+              "RelativeToolTip": "JokesApp\\Models\\BlogPost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T07:53:35.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Views\\Jokes\\Index.cshtml",
+              "RelativeDocumentMoniker": "JokesApp\\Views\\Jokes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Views\\Jokes\\Index.cshtml",
+              "RelativeToolTip": "JokesApp\\Views\\Jokes\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T09:40:07.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JokesController.cs",
+              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Controllers\\JokesController.cs",
+              "RelativeDocumentMoniker": "JokesApp\\Controllers\\JokesController.cs",
+              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Controllers\\JokesController.cs",
+              "RelativeToolTip": "JokesApp\\Controllers\\JokesController.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAIwEgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:16:04.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "JokesApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "JokesApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwBAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T09:50:27.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Views\\WeatherForcastModels\\Index.cshtml",
+              "RelativeDocumentMoniker": "JokesApp\\Views\\WeatherForcastModels\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Views\\WeatherForcastModels\\Index.cshtml",
+              "RelativeToolTip": "JokesApp\\Views\\WeatherForcastModels\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T10:53:08.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240821102209_initialsetup3.cs",
+              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Data\\Migrations\\20240821102209_initialsetup3.cs",
+              "RelativeDocumentMoniker": "JokesApp\\Data\\Migrations\\20240821102209_initialsetup3.cs",
+              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Data\\Migrations\\20240821102209_initialsetup3.cs",
+              "RelativeToolTip": "JokesApp\\Data\\Migrations\\20240821102209_initialsetup3.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:22:09.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 22,
+              "Title": "20240821074633_initialsetup2.cs",
+              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Data\\Migrations\\20240821074633_initialsetup2.cs",
+              "RelativeDocumentMoniker": "JokesApp\\Data\\Migrations\\20240821074633_initialsetup2.cs",
+              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Data\\Migrations\\20240821074633_initialsetup2.cs",
+              "RelativeToolTip": "JokesApp\\Data\\Migrations\\20240821074633_initialsetup2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T07:51:44.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "00000000000000_CreateIdentitySchema.cs",
               "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
               "RelativeDocumentMoniker": "JokesApp\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
@@ -433,7 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "JokesApp\\Models\\ErrorViewModel.cs",
@@ -441,11 +454,12 @@
               "RelativeToolTip": "JokesApp\\Models\\ErrorViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T10:06:31.681Z"
+              "WhenOpened": "2024-08-21T10:06:31.681Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "20240815114004_initialsetup.cs",
               "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Data\\Migrations\\20240815114004_initialsetup.cs",
               "RelativeDocumentMoniker": "JokesApp\\Data\\Migrations\\20240815114004_initialsetup.cs",
@@ -453,11 +467,12 @@
               "RelativeToolTip": "JokesApp\\Data\\Migrations\\20240815114004_initialsetup.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T07:51:33.861Z"
+              "WhenOpened": "2024-08-21T07:51:33.861Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Joke.cs",
               "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Models\\Joke.cs",
               "RelativeDocumentMoniker": "JokesApp\\Models\\Joke.cs",
@@ -465,11 +480,12 @@
               "RelativeToolTip": "JokesApp\\Models\\Joke.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T09:52:00.568Z"
+              "WhenOpened": "2024-08-21T09:52:00.568Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "JokesApp\\Views\\Shared\\_LoginPartial.cshtml",
@@ -477,11 +493,12 @@
               "RelativeToolTip": "JokesApp\\Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-21T07:54:41.816Z"
+              "WhenOpened": "2024-08-21T07:54:41.816Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "JokesApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -489,19 +506,8 @@
               "RelativeToolTip": "JokesApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-21T07:54:38.568Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "JokesApp\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\nnoKaanY\\source\\repos\\JokesApp-ASP.NET-core\\JokesApp\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "JokesApp\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-21T07:54:33.116Z"
+              "WhenOpened": "2024-08-21T07:54:38.568Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -513,7 +519,8 @@
               "RelativeToolTip": "JokesApp\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-21T07:54:28.613Z"
+              "WhenOpened": "2024-08-21T07:54:28.613Z",
+              "EditorCaption": ""
             }
           ]
         }

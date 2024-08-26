@@ -26,10 +26,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\nnoKaanY\source\repos\JokesApp-ASP.NET-core\JokesApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/nnoKaanY/source/repos/JokesApp-ASP.NET-core/JokesApp/Areas/Identity/Pages/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/nnoKaanY/source/repos/JokesApp-ASP.NET-core/JokesApp/Views/BlogPosts/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1Bvc3RzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -84,6 +80,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/nnoKaanY/source/repos/JokesApp-ASP.NET-core/JokesApp/Views/Jokes/ShowSearchForm.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9rZXNcU2hvd1NlYXJjaEZvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnoKaanY/source/repos/JokesApp-ASP.NET-core/JokesApp/Views/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/nnoKaanY/source/repos/JokesApp-ASP.NET-core/JokesApp/Views/Shared/Error.cshtml]
